@@ -1,5 +1,3 @@
-# Socket Server Basico
+# Web Sockets Tickets App
 
-Un servidor de Websockets usando Node, Express y Socket.io
-
-Temas cubiertos en mi curso de Node de cero a experto
+Una aplicación para crear, asignar y visualizar tickets de atención al cliente.
